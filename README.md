@@ -1,9 +1,9 @@
 # ciderall
 
-Este Programa mostra algumas informações da rede de forma decimal e binária.<br>
-Através do endereço IP + CIDR, ele apresenta a máscara de sub-rede, endereço de broadcast, o range de host dessa rede, máximo de sub-redes e máximo de endereços IP.
+This software shows some informations about a network, in decimal and binary form.
+Throught of IP Address + CIDR, it show the subnet mask, broadcast address, range, max sub-net and max IP Address. 
 
-Exemplo:
+Example:
 
 $ ./ciderall 192.168.0.1/18
 
